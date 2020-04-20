@@ -6,7 +6,7 @@
             return "dsadsaddsadsadasa";
         }
         public  function  ceshi(){
-            echo "djsakldjsaklj";
+            echo "djsakldjsakgitlj";
         }
 
     }
