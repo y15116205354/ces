@@ -1,6 +1,9 @@
 <?php
 
 
-    class exdc{
+    class modb{
+        public  function  add(){
+            return "dsadsada";
+        }
 
     }
