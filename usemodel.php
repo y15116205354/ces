@@ -3,7 +3,7 @@
 
     class modb{
         public  function  add(){
-            return "dsadsaddsaddgitdsadasa";
+            return "dsaddddsaddsaddgitdsadasa";
         }
         public  function  ceshi(){
             echo "djsakldjsakgitlj";
